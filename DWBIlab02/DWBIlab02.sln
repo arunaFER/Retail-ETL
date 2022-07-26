@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1800
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "DWBIlab02", "DWBIlab02\DWBIlab02.dtproj", "{8D05BDE8-C143-469F-9778-E9F5B1689FE1}"
+EndProject
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "Project_Goodbooks", "C:\Goodbooks\Project_Goodbooks\Project_Goodbooks.dtproj", "{25695C16-3078-4686-B3AD-FC4287DCE3E2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D05BDE8-C143-469F-9778-E9F5B1689FE1}.Development|Default.ActiveCfg = Development
+		{8D05BDE8-C143-469F-9778-E9F5B1689FE1}.Development|Default.Build.0 = Development
+		{25695C16-3078-4686-B3AD-FC4287DCE3E2}.Development|Default.ActiveCfg = Development
+		{25695C16-3078-4686-B3AD-FC4287DCE3E2}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {267765A6-B286-4B1C-8212-DC7AB80AF728}
+	EndGlobalSection
+EndGlobal
